@@ -8,6 +8,5 @@ Cleaning and visualization of poverty data in Ecuador's major urban areas. This 
 ![figure 1](http://i68.tinypic.com/1570i3c.jpg)  
 
 ## Encuesta Datos
-visualization and analysis of survey data that I collected at a large public high school in Machala, Ecuador.
-![figure2](http://i64.tinypic.com/2f07rbd.png)
+Visualization and analysis of survey data that I collected at a large public high school in Machala, Ecuador.
 
